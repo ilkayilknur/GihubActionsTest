@@ -15,6 +15,7 @@ namespace ActionsTest
     {
         public Startup(IConfiguration configuration)
         {
+            int a=10;
             Configuration = configuration;
         }
 
